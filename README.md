@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi!! I'm Melia 👋
+
+🏫I am currently studying in the Information Technology, Faculty of Engineering, Udayana University.
+
+## I'm Currently Learning
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,mysql,js,java,py,laravel,arduino&perline=7)](https://skillicons.dev)
+
+
+## GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meliaa79&show_icons=true&theme=radical)
 
 <!--
 **Meliaa79/Meliaa79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
